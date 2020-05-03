@@ -26,13 +26,13 @@ img.onload=function(){
     ctx.fillRect(0,0,canvas.width,canvas.height);
     ctx2.drawImage(img,0,0);
 };
-img.src="http://placekitten.com/700/1023";
+img.src="https://i.postimg.cc/YCSK7w0G/30-04-20-Glove-Texts.png";
 
 var img2=new Image();
 img2.onload=function(){
     ctx.drawImage(img2,0,0);
 };
-img2.src="http://placekitten.com/700/1024";
+img2.src="https://i.postimg.cc/XX63J069/BRITAIN-HEALTH-VIRUS.jpg";
 
 
 function handleMouseDown(e){
